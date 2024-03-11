@@ -1,5 +1,4 @@
-# Estimating cosmic dust properties using Bayesian inference for data collected 
-# with the James Webb Space Telescope
+# Estimating cosmic dust properties using Bayesian inference for data collected with the James Webb Space Telescope
 ### Author: Mikolaj Mazurczyk
 
 ---
